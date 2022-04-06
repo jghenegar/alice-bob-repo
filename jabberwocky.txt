@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html class="scripts-not-loaded" dir="ltr"   lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700&amp;subset=latin-ext&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
+    <script>if (navigator.userAgent.match(/(MSIE|Trident\/)/)) location.replace('/ie-is-not-supported.html')</script>
+  <script>
+//<![CDATA[
+
+!function(){
+  function get(u){document.write('<scr'+'ipt src="'+ u +'"></sc'+'ript>')}
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    get("/dist/ie11-polyfill-5611ab3774.js");
+  }
+  if (!window.fetch) get("https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.4/fetch.min.js");
+}();
+      
+//]]>
+</script>
+  
+  <link rel="shortcut icon" type="image/x-icon" href="/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="/dist/images/apple-touch-icon-585e5d997d.png" />
+  <link rel="stylesheet" media="all" href="/dist/brandable_css/2a06e9b2baa9cce4efecca0f0cdaf671/variables-8391c84da435c9cfceea2b2b3317ff66.css" />
+  <link rel="stylesheet" media="all" href="/dist/brandable_css/new_styles_normal_contrast/bundles/common-2da0b7b376.css" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  
+  <link rel="stylesheet" media="all" href="https://canvas.cse.taylor.edu/accounts/2/files/682/download?verifier=r0EDxAJz0c7QBZVKp5TmsjuL01qegfIbI25ksGAX" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+
+
+  <script>
+    INST = {"environment":"production","disableGooglePreviews":true,"disableCrocodocPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[]};
+    ENV = {"ASSET_HOST":"","active_brand_config_json_url":"/dist/brandable_css/2a06e9b2baa9cce4efecca0f0cdaf671/variables-8391c84da435c9cfceea2b2b3317ff66.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":["/dist/brandable_css/2a06e9b2baa9cce4efecca0f0cdaf671/variables-8391c84da435c9cfceea2b2b3317ff66.css","/dist/brandable_css/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-f844e1e4c7.css"],"url_for_high_contrast_tinymce_editor_css":["/dist/brandable_css/default/variables-high_contrast-8391c84da435c9cfceea2b2b3317ff66.css","/dist/brandable_css/new_styles_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-db21d6ee5f.css"],"current_user_id":"739","current_user_roles":["user","student"],"current_user_types":[],"current_user_disabled_inbox":false,"files_domain":"canvasfiles.cse.taylor.edu","DOMAIN_ROOT_ACCOUNT_ID":"10000000000001","k12":false,"use_responsive_layout":false,"use_rce_enhancements":false,"rce_auto_save":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":false,"disable_celebrations":false,"LTI_LAUNCH_FRAME_ALLOWANCES":["geolocation *","microphone *","camera *","midi *","encrypted-media *","autoplay *"],"DEEP_LINKING_POST_MESSAGE_ORIGIN":"https://canvas.cse.taylor.edu","DEEP_LINKING_LOGGING":null,"SETTINGS":{"open_registration":false,"collapse_global_nav":false,"show_feedback_link":false},"DIRECT_SHARE_ENABLED":false,"FEATURES":{"assignment_bulk_edit_phase_2":false,"cc_in_rce_video_tray":false,"featured_help_links":false,"assignment_bulk_edit":false,"responsive_admin_settings":false,"responsive_awareness":false,"responsive_misc":false,"product_tours":false,"module_dnd":false,"files_dnd":false,"unpublished_courses":false,"canvas_k6_theme":false},"current_user":{"id":"739","display_name":"Jaylyn","avatar_image_url":"https://canvas.cse.taylor.edu/images/messages/avatar-50.png","html_url":"https://canvas.cse.taylor.edu/about/739","pronouns":null,"avatar_is_fallback":true},"context_asset_string":"course_122","ping_url":"https://canvas.cse.taylor.edu/api/v1/courses/122/ping","TIMEZONE":"America/Indiana/Indianapolis","CONTEXT_TIMEZONE":"America/Indiana/Indianapolis","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","notices":[],"active_context_tab":"files"};
+  </script>
+
+  <link rel="preload" href="/dist/brandable_css/2a06e9b2baa9cce4efecca0f0cdaf671/variables-8391c84da435c9cfceea2b2b3317ff66.js" as="script" type="text/javascript"><link rel="preload" href="/dist/timezone/America/Indiana/Indianapolis-3630da7a7a.js" as="script" type="text/javascript"><link rel="preload" href="/dist/timezone/America/Indiana/Indianapolis-3630da7a7a.js" as="script" type="text/javascript"><link rel="preload" href="/dist/timezone/en_US-80a0ce259b.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/main-e-54c71387d4.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+
+      ;["/dist/brandable_css/2a06e9b2baa9cce4efecca0f0cdaf671/variables-8391c84da435c9cfceea2b2b3317ff66.js", "/dist/timezone/America/Indiana/Indianapolis-3630da7a7a.js", "/dist/timezone/America/Indiana/Indianapolis-3630da7a7a.js", "/dist/timezone/en_US-80a0ce259b.js", "/dist/webpack-production/main-e-54c71387d4.js"].forEach(function(src) {
+        var s = document.createElement('script')
+        s.src = src
+        s.async = false
+        document.head.appendChild(s)
+      });
+//]]>
+</script><link rel="preload" href="/dist/webpack-production/0-c-07585b02de.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/2-c-ad373a348a.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/3-c-4807ad1f8d.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/4-c-bed331f535.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/5-c-dd487e1e07.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/6-c-e0e82b199d.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/7-c-7fa01147ef.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/51-c-1655092c37.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/87-c-2237ff0a68.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/module_sequence_footer-c-f2109167ac.js" as="script" type="text/javascript"><link rel="preload" href="/dist/webpack-production/file_inline-c-2e986e5734.js" as="script" type="text/javascript"><script>
+//<![CDATA[
+(window.bundles || (window.bundles = [])).push('module_sequence_footer');
+(window.bundles || (window.bundles = [])).push('file_inline');
+(window.bundles || (window.bundles = [])).push('navigation_header');
+//]]>
+</script>
+  <title>  jabberwocky.txt: COS 109 - Computer &amp; Network Operations 
+</title>
+  
+
+</head>
+
+<body class="with-left-side course-menu-expanded files primary-nav-expanded context-course_122">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+
+
+  <header id="header" class="ic-app-header no-print ">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Global Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.cse.taylor.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item ">
+              <a id="global_nav_profile_link" role="button" href="/profile" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container">
+                  <div aria-hidden="true" class="fs-exclude ic-avatar ">
+                    <img src="https://canvas.cse.taylor.edu/images/messages/avatar-50.png" alt="Jaylyn" />
+                  </div>
+                  <span class="menu-item__badge"></span>
+                </div>
+                <div class="menu-item__text">
+                  Account
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.cse.taylor.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+            <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+              <a id="global_nav_courses_link" role="button" href="/courses" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Courses
+                </div>
+              </a>
+            </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container">
+                <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+</span>
+                <span class="menu-item__badge"></span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+            
+
+
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="Minimize global navigation"
+              title="Minimize global navigation"
+            >
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+              </div>
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+    <div id="global_nav_tour"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><a href="/courses/122/files"><span class="ellipsible">Files</span></a></li><li><a href="/courses/122/files/20549"><span class="ellipsible">jabberwocky.txt</span></a></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">Spring 2022</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/122" title="Home" class="home">Home</a></li><li class="section"><a href="/courses/122/announcements" title="Announcements" class="announcements">Announcements</a></li><li class="section"><a href="/courses/122/assignments" title="Assignments" class="assignments">Assignments</a></li><li class="section"><a href="/courses/122/discussion_topics" title="Discussions" class="discussions">Discussions</a></li><li class="section"><a href="/courses/122/grades" title="Grades" class="grades">Grades</a></li><li class="section"><a href="/courses/122/users" title="People" class="people">People</a></li><li class="section"><a href="/courses/122/wiki" title="Pages" class="pages">Pages</a></li><li class="section"><a href="/courses/122/files" title="Files" aria-current="page" class="files active">Files</a></li><li class="section"><a href="/courses/122/assignments/syllabus" title="Syllabus" class="syllabus">Syllabus</a></li><li class="section"><a href="/courses/122/quizzes" title="Quizzes" class="quizzes">Quizzes</a></li><li class="section"><a href="/courses/122/modules" title="Modules" class="modules">Modules</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+          
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+  <h2>jabberwocky.txt</h2>
+  <div>
+    <span style="font-size: 1.2em;">
+      <a href="/courses/122/files/20549/download?download_frd=1">Download jabberwocky.txt</a>
+    </span> (1017 Bytes)
+  </div>
+    <iframe id="file_content" src="https://canvasfiles.cse.taylor.edu/courses/122/files/20549/course%20files/hw/jabberwocky.txt?download=1&amp;inline=1&amp;sf_verifier=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoiMTAwMDAwMDAwMDA3MzkiLCJyb290X2FjY291bnRfaWQiOiIxMDAwMDAwMDAwMDAwMSIsIm9hdXRoX2hvc3QiOiJjYW52YXMuY3NlLnRheWxvci5lZHUiLCJyZXR1cm5fdXJsIjpudWxsLCJmYWxsYmFja191cmwiOiIvY291cnNlcy8xMjIvZmlsZXMvMjA1NDkvZG93bmxvYWQ_ZG93bmxvYWRfZnJkPTFcdTAwMjZmYWxsYmFja190cz0xNjQ5Mjg4ODQwIiwiZXhwIjoxNjQ5Mjg5MTQwfQ.IYcK6e9QH94FSXKKlDhORHrCngEWqsZM0eW7Cjk_Pb2owfmr4vf_Xf2GTiNrGSHA9gWECH_bni1-YDupJqu8aA" style="width: 100%; height: 400px;" title="File Content"></iframe>
+
+  <div id="sequence_footer" data-course-id="122" data-asset-id="20549" data-asset-type="File"></div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+            
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  
+
+
+
+<script>
+//<![CDATA[
+
+      ;["/javascripts/null.js"].forEach(function(src) {
+        var s = document.createElement('script')
+        s.src = src
+        s.async = false
+        document.head.appendChild(s)
+      });
+//]]>
+</script>
+
+</div> <!-- #application -->
+</body>
+</html>
